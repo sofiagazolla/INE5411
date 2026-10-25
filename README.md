@@ -1,6 +1,6 @@
 <h1 align="center">INE5411 · Organização de Computadores I</h1>
 
-Atividades realizadas na disciplina Organização de Computadores I, do curso de Ciências da Computação na UFSC.
+Trabalhos e atividades realizados na disciplina Organização de Computadores I, no terceiro semestre do curso de Ciências da Computação na UFSC.
 
 ## Competências desenvolvidas
 
